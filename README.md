@@ -21,7 +21,7 @@ Concluido.
 
 <h2>Demonstração da aplicação</h2>
 
-Página-inicial
+Página inicial
 
 ![image](https://user-images.githubusercontent.com/33943534/149643930-713a02ce-e352-46eb-b327-0522fb2e4136.png)
 
