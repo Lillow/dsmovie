@@ -7,7 +7,7 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Status do projeto](#status-do-projeto)
    * [Demonstração da aplicação](#Demonstração-da-aplicação)
-   * [Página inicial](#Página-inicial)
+        * [Página inicial](#Demonstração-da-aplicação-Página-inicial)
         * [Form](#Form) 
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
