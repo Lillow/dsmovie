@@ -7,8 +7,8 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Status do projeto](#status-do-projeto)
    * [Demonstração da aplicação](#Demonstração-da-aplicação)
-        * [Página inicial](#Demonstração-da-aplicação)
-        * [Form](#Demonstração-da-aplicação) 
+        * [Página inicial](#Página-inicial)
+        * [Form](#Form) 
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -21,11 +21,11 @@ Concluido.
 
 <h2>Demonstração da aplicação</h2>
 
-Página inicial
+<h3>Página inicial</h3>
 
 ![image](https://user-images.githubusercontent.com/33943534/149643930-713a02ce-e352-46eb-b327-0522fb2e4136.png)
 
-Form
+<h3>Form</h3>
 
 ![image](https://user-images.githubusercontent.com/33943534/149643941-980b7e1b-68fd-49ea-af68-3d30483a72a9.png)
 
