@@ -14,7 +14,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h2>Sobre</h2>
-<p>Projeto da Semana Spring React da DevSuperior onde foi criado uma aplicação web para avaliar filmes.</p>
+<p>Projeto desenvolvido durante a Semana Spring React 6 da DevSuperior onde foi criado uma aplicação web para avaliar filmes.</p>
 
 <h2>Status do projeto</h2>
 Concluido.
