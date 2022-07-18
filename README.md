@@ -4,11 +4,11 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Sobre](#sobre)
    * [Status do projeto](#status-do-projeto)
-   * [Demonstração da aplicação](#Demonstração-da-aplicação)
-        * [Página inicial](#Página-inicial)
-        * [Form](#Form) 
+   * [Demonstração da aplicação](#demonstração-da-aplicação)
+        * [Página inicial](#página-inicial)
+        * [Form](#form) 
    * [Como usar](#como-usar)
    * [Tecnologias](#tecnologias)
 <!--te-->
